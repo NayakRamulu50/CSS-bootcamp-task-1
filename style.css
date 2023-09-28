@@ -1,0 +1,160 @@
+/* css-task-1 */
+.container {
+    width: 385px;
+    height: 320px;
+    background-color: rgb(26, 244, 153);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    padding: 50px;
+    margin: 30px auto;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.btn {
+    background-color: #fff;
+    border: none;
+    padding: 15px;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+/* CSS-Task-2 */
+
+.profiles {
+    width: 450px;
+    height: 350px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    margin: auto;
+
+    border-radius: 10px 10px 0 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.profiles h1 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.profiles p {
+    font-size: 20px;
+    color: rgb(131, 129, 129);
+}
+
+.profiles-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 35px;
+}
+
+.see-profiles {
+    width: 450px;
+    color: rgb(35, 120, 249);
+    height: 50px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    border-radius: 0 0 10px 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* ----------------------------Task-3------------------------------------------------ */
+
+
+.subscription {
+    width: 600px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 2px solid lightgray;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+.subscription img {
+    width: 100%;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.subscription i {
+    padding: 15px 15px 0 15px;
+    color: lightslategray;
+}
+
+.subscription span {
+    margin-left: 10px;
+    text-transform: lowercase;
+}
+
+.sub-card {
+    padding: 0 40px 40px 40px;
+}
+
+.sub-card h2 {
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.sub-card p {
+    font-family: sans-serif;
+    font-size: 25px;
+    color: lightslategray;
+    font-weight: 400;
+}
+
+.sub-card button {
+    padding: 12px 20px 12px 20px;
+    background-color: #fff;
+    border: 1.5px solid lightgray;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(55, 114, 243);
+}
+
+
+
+/* ----------------------------------------------------Task-4-------------------------------------------------- */
+
+
+.loginpage {
+    width: 400px;
+    margin: 30px auto;
+    text-align: center;
+    padding: 20px;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.input {
+    width: 350px;
+    height: 25px;
+    margin: 5px;
+    border: 1px solid lightgray;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.loginpage button {
+    margin-top: 10px;
+    padding: 18px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+}
+
+.loginpage p span {
+    text-decoration: underline;
+}
